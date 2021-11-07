@@ -12,5 +12,6 @@ and standard forms of mu are saved in csv files in the "Data" folder sorted by g
 Additional files containing isomorphisms of mu are also saved in csv files in "Isomorphisms" 
 for covienience. Csv files containing already generated data have been provided in these folders.
 
-"single_file_analysis.py" sorts through the csv files of generated data to summarise totals.
-Data from this is saved in additional csv files in the "Analysis" folders.
+"single_file_analysis.py" sorts through the csv files of generated data to summarise the total
+number of valid triangulations found. Data from this is saved in additional csv files in the 
+"Analysis" folders.
