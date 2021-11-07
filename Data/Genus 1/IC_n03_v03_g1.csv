@@ -1,0 +1,8 @@
+Partitions: [[1  1  1]]
+
+
+Cycle Partition: [1  1  1]
+,mu,isomorphisms, sigma, phi, C
+,(0 1 2), 6
+,,,(0 1 2),(0 2 1),1
+

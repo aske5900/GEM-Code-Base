@@ -1,0 +1,10 @@
+Partitions: [[2  1  1]]
+
+
+Cycle Partition: [2  1  1]
+,mu,isomorphisms
+,(1 2 3), 6
+
+,mu,isomorphisms
+,(0 1)(2 3), 16
+

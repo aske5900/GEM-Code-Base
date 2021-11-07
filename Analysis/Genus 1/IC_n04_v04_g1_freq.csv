@@ -1,0 +1,9 @@
+['Partitions: [[2  1  1]]']
+
+
+Cycle Partition, Mu, # Iso, # Sigmas, C, # Tot Sigmas, C, # All Paritions, C, Percent Connected
+[2  1  1], (1 2 3),  6, 3, 3
+[2  1  1], (0 1)(2 3),  16, 2, 2
+[2  1  1],,,,,5, 5
+
+,,,,,,,5,5,100.0

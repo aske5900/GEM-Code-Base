@@ -1,0 +1,194 @@
+Partitions: [[9  1  1]  [8  1  2]  [8  2  1]  [7  1  3]  [7  3  1]  [6  1  4]  [6  4  1]  [5  1  5]  [5  5  1]  [7  2  2]  [6  2  3]  [6  3  2]  [5  2  4]  [5  4  2]  [5  3  3]  [4  3  4]  [4  4  3]]
+
+
+Cycle Partition: [9  1  1]
+,mu,isomorphisms
+,(8), 725760
+
+Cycle Partition: [8  1  2]
+,mu,isomorphisms
+,(7 8), 20160
+
+Cycle Partition: [8  2  1]
+,mu,isomorphisms
+,(7 8), 20160
+
+Cycle Partition: [7  1  3]
+,mu,isomorphisms
+,(6 7 8), 4320
+
+,mu,isomorphisms
+,(5 6)(7 8), 1920
+
+Cycle Partition: [7  3  1]
+,mu,isomorphisms
+,(6 7 8), 4320
+
+,mu,isomorphisms
+,(5 6)(7 8), 1920
+
+Cycle Partition: [6  1  4]
+,mu,isomorphisms
+,(5 6 7 8), 960
+
+,mu,isomorphisms
+,(4 5)(6 7 8), 288
+
+,mu,isomorphisms
+,(3 4)(5 6)(7 8), 576
+
+Cycle Partition: [6  4  1]
+,mu,isomorphisms
+,(5 6 7 8), 960
+
+,mu,isomorphisms
+,(4 5)(6 7 8), 288
+
+,mu,isomorphisms
+,(3 4)(5 6)(7 8), 576
+
+Cycle Partition: [5  1  5]
+,mu,isomorphisms
+,(4 5 6 7 8), 240
+
+,mu,isomorphisms
+,(3 4)(5 6 7 8), 96
+
+,mu,isomorphisms
+,(3 4 5)(6 7 8), 216
+
+,mu,isomorphisms
+,(2 3)(4 5)(6 7 8), 96
+
+,mu,isomorphisms
+,(1 2)(3 4)(5 6)(7 8), 768
+
+Cycle Partition: [5  5  1]
+,mu,isomorphisms
+,(4 5 6 7 8), 240
+
+,mu,isomorphisms
+,(3 4)(5 6 7 8), 96
+
+,mu,isomorphisms
+,(3 4 5)(6 7 8), 216
+
+,mu,isomorphisms
+,(2 3)(4 5)(6 7 8), 96
+
+,mu,isomorphisms
+,(1 2)(3 4)(5 6)(7 8), 768
+
+Cycle Partition: [7  2  2]
+,mu,isomorphisms
+,(6 7 8), 4320
+
+,mu,isomorphisms
+,(5 6)(7 8), 1920
+
+Cycle Partition: [6  2  3]
+,mu,isomorphisms
+,(5 6 7 8), 960
+
+,mu,isomorphisms
+,(4 5)(6 7 8), 288
+
+,mu,isomorphisms
+,(3 4)(5 6)(7 8), 576
+
+Cycle Partition: [6  3  2]
+,mu,isomorphisms
+,(5 6 7 8), 960
+
+,mu,isomorphisms
+,(4 5)(6 7 8), 288
+
+,mu,isomorphisms
+,(3 4)(5 6)(7 8), 576
+
+Cycle Partition: [5  2  4]
+,mu,isomorphisms
+,(4 5 6 7 8), 240
+
+,mu,isomorphisms
+,(3 4)(5 6 7 8), 96
+
+,mu,isomorphisms
+,(3 4 5)(6 7 8), 216
+
+,mu,isomorphisms
+,(2 3)(4 5)(6 7 8), 96
+
+,mu,isomorphisms
+,(1 2)(3 4)(5 6)(7 8), 768
+
+Cycle Partition: [5  4  2]
+,mu,isomorphisms
+,(4 5 6 7 8), 240
+
+,mu,isomorphisms
+,(3 4)(5 6 7 8), 96
+
+,mu,isomorphisms
+,(3 4 5)(6 7 8), 216
+
+,mu,isomorphisms
+,(2 3)(4 5)(6 7 8), 96
+
+,mu,isomorphisms
+,(1 2)(3 4)(5 6)(7 8), 768
+
+Cycle Partition: [5  3  3]
+,mu,isomorphisms
+,(4 5 6 7 8), 240
+
+,mu,isomorphisms
+,(3 4)(5 6 7 8), 96
+
+,mu,isomorphisms
+,(3 4 5)(6 7 8), 216
+
+,mu,isomorphisms
+,(2 3)(4 5)(6 7 8), 96
+
+,mu,isomorphisms
+,(1 2)(3 4)(5 6)(7 8), 768
+
+Cycle Partition: [4  3  4]
+,mu,isomorphisms
+,(3 4 5 6 7 8), 72
+
+,mu,isomorphisms
+,(2 3)(4 5 6 7 8), 40
+
+,mu,isomorphisms
+,(2 3 4)(5 6 7 8), 48
+
+,mu,isomorphisms
+,(1 2)(3 4)(5 6 7 8), 64
+
+,mu,isomorphisms
+,(1 2)(3 4 5)(6 7 8), 72
+
+,mu,isomorphisms
+,(0 1)(2 3)(4 5)(6 7 8), 288
+
+Cycle Partition: [4  4  3]
+,mu,isomorphisms
+,(3 4 5 6 7 8), 72
+
+,mu,isomorphisms
+,(2 3)(4 5 6 7 8), 40
+
+,mu,isomorphisms
+,(2 3 4)(5 6 7 8), 48
+
+,mu,isomorphisms
+,(1 2)(3 4)(5 6 7 8), 64
+
+,mu,isomorphisms
+,(1 2)(3 4 5)(6 7 8), 72
+
+,mu,isomorphisms
+,(0 1)(2 3)(4 5)(6 7 8), 288
+
