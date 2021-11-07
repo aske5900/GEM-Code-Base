@@ -15,3 +15,5 @@ containing already generated data have been provided in these folders.
 "single_file_analysis.py" sorts through the csv files of generated data to summarise the total
 number of valid triangulations found. Data from this is saved in additional csv files in the 
 "Analysis" folders.
+
+Authors: Chantal Kander (SID: 510290197) and Amelie Skelton (SID: 510415217).
