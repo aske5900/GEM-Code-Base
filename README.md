@@ -3,9 +3,10 @@ Code for the generation and analysis of valid triangulations, and previously col
 
 The code in this repository was made in Semester 2 2021 as part of a project for SCDL1991 at 
 the University of Sydney. The code was designed to generate all triangulations with a given
-number of vertices, for a given genus surface. 
+number of vertices, for a given genus surface. We have provided individual files separately, 
+as well as a zip file containing the code and the data generated.
 
-"data_generation.py" is the main file and uses function from partition_mu, partition_vertices,
+"data_generation.py" is the main file and uses functions from partition_mu, partition_vertices,
 permutations_sigma and miscfunctions. Lists of valid permutations sorted by vertex partition
 and standard forms of mu are saved in csv files in the "Data" folder sorted by genus. 
 Additional files containing isomorphisms of mu are also saved in csv files in "Isomorphisms" 
