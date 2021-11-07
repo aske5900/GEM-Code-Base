@@ -8,9 +8,9 @@ as well as a zip file containing the code and the data generated.
 
 "data_generation.py" is the main file and uses functions from partition_mu, partition_vertices,
 permutations_sigma and miscfunctions. Lists of valid permutations sorted by vertex partition
-and standard forms of mu are saved in csv files in the "Data" folder sorted by genus. 
-Additional files containing isomorphisms of mu are also saved in csv files in "Isomorphisms" 
-for covienience. Csv files containing already generated data have been provided in these folders.
+and standard forms of mu are saved in csv files in the "Data" folder sorted by genus. Lists of 
+isomorphisms of mu are also saved in csv files in "Isomorphisms" for covienience. Csv files 
+containing already generated data have been provided in these folders.
 
 "single_file_analysis.py" sorts through the csv files of generated data to summarise the total
 number of valid triangulations found. Data from this is saved in additional csv files in the 
